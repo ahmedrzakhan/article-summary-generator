@@ -62,3 +62,7 @@ htmlcov/
 
 # Jupyter
 .ipynb_checkpoints/
+
+setup.py
+run_backend.py
+run_frontend.py
